@@ -1,0 +1,30 @@
+<style>
+      .navbar-brand img {
+        height: 80px;
+      }
+      img {
+        height: 100px;
+      }
+      header.masthead h1 {
+        font-size: 62px;
+        font-family: 'Orbitron', sans-serif;
+      }
+      .btn .btn-primary .btn-xl .js-scroll-trigger .animated .infinite .pulse .delay-2s {
+        transition: 0s;
+      }
+      .footer {
+        font-family: 'Didact Gothic', sans-serif;
+        background-color: black;
+        height: 35px;
+        color: grey;
+        padding-top: 2px;
+        margin-top: 0;
+      }
+      .animated.delay-2s {
+        /*transition: 5s;*/
+        animation-duration: 3s;
+      }
+      .animated.pulse {
+        animation-duration: 2s;
+      }
+</style>
